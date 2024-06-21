@@ -11,4 +11,4 @@ Neste Labs foi aprentada a biblioteca Pandas, uma biblioteca Python de código a
 *2* - Faça o clone ou download do projeto.<br>
 *3* - Acesse o diretório do projeto <br>
 *4* - Execute a aplicação através do Jupyter Notebook pelo comando: <br>
-```$ jupyter notebook .``` 
+```$ jupyter notebook``` 
